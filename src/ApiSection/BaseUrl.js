@@ -1,0 +1,1 @@
+export const baseURL = 'https://mern-project-server-jwiu.onrender.com'
